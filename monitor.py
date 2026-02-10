@@ -1,8 +1,8 @@
 import random
 
 # --- CONFIG ---
-SERVER_NAME = "Sumukh-Test-Server"
-CPU_THRESHOLD = 80 
+SERVER_NAME = "Prod-Server-Alpha"
+CPU_THRESHOLD = 90 
 # --------------
 
 def check_server():
